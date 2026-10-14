@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Eunicest/Eunicest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Eunice Sitti-Mawubejro
 
-Here are some ideas to get you started:
+Diplômée d'un Master de mathématiques appliquées et statistiques (Université d'Orléans, 2026), orienté data science.
+Je cherche un poste de **data scientist**, **data analyst** ou **chargée d'études statistiques**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Outils
+- **Data Science & Programmation :** R, Python (pandas, NumPy, Matplotlib, OpenCV), SAS, C++, SQL.
+- **Environnements & Reporting :** Jupyter, R Markdown, LaTeX, Power BI.
+
+## 🚀 Projets
+- **[Analyse de données de tourbières](https://github.com/Eunicest/Projet_Tourbiere)** : ACP et séries temporelles (ARIMA) sur des flux de gaz à effet de serre. *Résultat : Isolement de facteurs clés fournissant une base statistique fiable pour interpréter les dynamiques d'échanges gazeux*.
+- **[Transfert de couleur par transport optimal](https://github.com/Eunicest/Transfert_de_couleur_par_transport_optimal)** : Implémentation d'un algorithme de traitement d'images en Python.
+- **[Modélisation géostatistique](https://github.com/Eunicest/Projet_geostatistique)** : Variogramme expérimental et ajustement d'un modèle sphérique.
+
+*Projets issus de mon Master. Dans chaque dépôt, je documente ma démarche, ce que j'ai appris et ce que j'améliorerais.*
+
+## 📫 Contact
+- [LinkedIn](https://www.linkedin.com/in/eunice-ayele-sitti/)
