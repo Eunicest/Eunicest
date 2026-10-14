@@ -12,7 +12,7 @@ Je cherche un poste de **data scientist**, **data analyst** ou **chargée d'étu
 - **Environnements & Reporting :** Jupyter, R Markdown, LaTeX, Power BI.
 
 ## 🚀 Projets
-- **[Analyse de données de tourbières]((https://github.com/Eunicest/Projet_Tourbiere))** : ACP et séries temporelles (ARIMA) sur des flux de gaz à effet de serre. *Résultat : Isolement de facteurs clés fournissant une base statistique fiable pour interpréter les dynamiques d'échanges gazeux*.
+- **[Analyse de données de tourbières](https://github.com/Eunicest/Projet_Tourbiere)** : ACP et séries temporelles (ARIMA) sur des flux de gaz à effet de serre. *Résultat : Isolement de facteurs clés fournissant une base statistique fiable pour interpréter les dynamiques d'échanges gazeux*.
 - **[Transfert de couleur par transport optimal](https://github.com/Eunicest/Transfert_de_couleur_par_transport_optimal)** : Implémentation d'un algorithme de traitement d'images en Python.
 - **[Modélisation géostatistique](https://github.com/Eunicest/Projet_geostatistique)** : Variogramme expérimental et ajustement d'un modèle sphérique.
 
@@ -33,7 +33,7 @@ I am seeking a position as a **Data Scientist**, **Data Analyst**, or **Statisti
 - **Environments & Reporting:** Jupyter, R Markdown, LaTeX, Power BI.
 
 ## 🚀 Projects
-- **[Peatland Data Analysis]((https://github.com/Eunicest/Projet_Tourbiere))**: PCA and time series modeling (ARIMA) on greenhouse gas fluxes. *Key outcome: Isolated key factors providing a reliable statistical basis to interpret gas exchange dynamics*.
+- **[Peatland Data Analysis](https://github.com/Eunicest/Projet_Tourbiere)**: PCA and time series modeling (ARIMA) on greenhouse gas fluxes. *Key outcome: Isolated key factors providing a reliable statistical basis to interpret gas exchange dynamics*.
 - **[Color Transfer via Optimal Transport](https://github.com/Eunicest/Transfert_de_couleur_par_transport_optimal)**: Implementation of an image processing algorithm in Python.
 - **[Geostatistical Modeling](https://github.com/Eunicest/Projet_geostatistique)**: Experimental variogram and fitting of a spherical model.
 
